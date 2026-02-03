@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap');
+
+:root {
+    --standart-background: rgb(255, 255, 255);
+    --standart-color: rgb(255, 255, 255);
+    --color-gray-300: rgb(217, 219, 225);
+    --color-gray-900: rgb(24, 25, 31);
+    --header-border: rgb(229, 233, 242);
+    --main-button: rgb(140, 48, 245);
+    --main-button-hover: rgb(148, 56, 253);
+    --main-button-active: rgb(140, 48, 245);
+    --footer: rgb(11, 13, 23);
+    --footer-link: rgb(35, 37, 46);
+    --footer-link-hover: rgb(40, 42, 51);
+    --footer-link-active: rgb(35, 37, 46);
+}
